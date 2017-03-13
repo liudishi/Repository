@@ -12,16 +12,17 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Servlet3.0"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.28"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Netty5.0"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache-commons-lang3"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json-2-RELEASE65"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json-lib-2.4-jdk15"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Apache-commons-beanutils-1.8.0"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Guava-14.0.1"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Commons-beanutils-1.8.0"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Net-sf-json"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Servlet-api-3.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Commons-lang3-3.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json-lib-2.4-jdk15"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Guava-14.0.1"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

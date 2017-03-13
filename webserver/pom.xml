@@ -362,6 +362,13 @@
 		<artifactId>json</artifactId>
 		<version>20150729</version>
 	</dependency>
+
+	<dependency>
+	    <groupId>commons-beanutils</groupId>
+	    <artifactId>commons-beanutils</artifactId>
+	    <version>1.9.0</version>
+	</dependency>
+	
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
